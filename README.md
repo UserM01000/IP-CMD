@@ -8,8 +8,9 @@ que trabaja con dirrecciones Ip, aunque no es mucho
 pero el trabajo vale la pena :D 
 # ![Tested]
 ### Uso en Windows 
-
-* `Descargar el archivo y ejecuta el archivo IP-CMD.bat`
+# ACTUALIZACION
+* Ahora esta en version Ejecutbale (.EXE) para que puedan descargar </br>
+pero igual hay les dejo el Codigo para que lo lean :D 
 
 # Antivirus
 * `Desactiva o Ejecutalo como Administrador, detecta esta herramienta como virus, pero no lo es`
